@@ -1,9 +1,8 @@
-# Jonas Schmedtmann - Forkify
+# Jonas Schmedtmann - Bankist Website
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [About](#about)
   - [The Challenge](#the-challenge)
   - [Features](#features)
   - [Updates](#updates)
@@ -15,32 +14,28 @@
 
 ## Overview
 
-### About
-
-Forkify is a recipe web app that lets users search, read, edit, bookmark, and upload recipes using the [Forkify API](https://forkify-api.herokuapp.com/v2).
-
 ### The Challenge
 
 My goal was to recreate Jonas' Bankist Website from scratch and make some updates to it.
 
 ### Features
 
-- Button Scrolling: scrolling into view
+- Button scrolling: scrolling into View
 - Page Navigation
-- Tabbed component
+- Tabbed Component
 - Menu Fade Animation
 - Lazy loading Images
-- Horizontal Review sliding component
+- Horizontal Review sliding Component
 
 ### Updates
 
-- Responsive Web design across all devices
+- Responsive Web Design across all Devices
 - Display or hide Mobile Menu Functionality
 
 ### Links
 
 - Solution URL: [Github Repo here](https://github.com/gitEricsson/Forkify)
-- Live Site URL: [Live site here](https://ericsson-forkify.netlify.app/)
+- Live Site URL: [Live site here](https://ericsson-bankist-website.netlify.app/)
 
 ## My process
 
