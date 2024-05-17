@@ -34,7 +34,7 @@ My goal was to recreate Jonas' Bankist Website from scratch and make some update
 
 ### Links
 
-- Solution URL: [Github Repo here](https://github.com/gitEricsson/Forkify)
+- Solution URL: [Github Repo here](https://github.com/gitEricsson/Bankist-Website)
 - Live Site URL: [Live site here](https://ericsson-bankist-website.netlify.app/)
 
 ## My process
