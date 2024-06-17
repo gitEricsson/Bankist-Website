@@ -177,7 +177,7 @@ img {
 
 /* nav and stickly class at the same time */
 nav {
-  width: 100vw;
+  width: 100%;
   position: relative;
 }
 .nav.sticky {
