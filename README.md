@@ -1,4 +1,4 @@
-# Jonas Schmedtmann - Bankist Website
+# Bankist Website
 
 ## Table of contents
 
@@ -17,7 +17,7 @@
 
 ### The Challenge
 
-My goal was to recreate Jonas' Bankist Website from scratch and make some updates to it.
+My goal was to recreate [Jonas Schmedtmann](https://github.com/jonasschmedtmann)'s Bankist Website from scratch and make some updates to it.
 
 ### Features
 
